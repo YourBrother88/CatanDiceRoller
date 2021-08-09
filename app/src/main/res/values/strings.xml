@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Catan Dice Roller</string>
+    <string name="draw">Draw</string>
+    <string name="first_die">first die</string>
+    <string name="second_die">second die</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+</resources>
